@@ -78,8 +78,8 @@ passionate hackers.
 Take into account that the *Paradox* point to different languages over time, but
 it does not point only forward to newer languages but also to older ones, and
 that this pointer can actually tend to move away from the trending languages.
-Take Perl (or Lisp or Scheme or ...) as another example; What kind of people
-would like to learn by them selfs a "difficult/complex" language that is not as
-used as Python or Java and that will not make you more appealing for a job? -
-Real passionate hackers that enjoy it, and do it well, just as the paradox
-predicts.
+Take {Perl, Lisp, Scheme, Haskell, Rust, Go} as another example; What kind of
+people would like to learn by them selfs a *"difficult/complex"* language that
+is not as used as Python or Java and that will not make you more appealing for a
+job? - Real passionate hackers that enjoy it, and do it well, just as the
+paradox predicts.
